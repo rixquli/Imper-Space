@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 11030776cb7f0f34498829fdb255b3f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gadgetsData: {instanceID: 0}
+  - healthBarUIPrefab: {fileID: 1742112021199335380, guid: de5b184243858b04ebfdc919ea8f79d2, type: 3}
+  - levelUIPrefab: {fileID: 1742112021199335380, guid: cb97e27da46d73645a5e87365a6265ec, type: 3}
+  - spriteRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
